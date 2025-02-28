@@ -1,6 +1,9 @@
-Understanding within-occupation heterogeneity in skillsets using large online job vacancy data
+# Understanding within-occupation heterogeneity in skillsets using large online job vacancy data
 
-Data and method
+This was a short project done at Future Impact Group (Jan, 2024) Oxford and was presented at Future Impact Group’s  Research Residency held between March 11-15th.
+
+# Data and method
+
  • 20 million observations for one year, 2019 (we use 300k for tests)
  
  • From Lightcast, a private provider
